@@ -1,0 +1,3 @@
+Java is a popular programming language created by Sun Microsystems. 
+It is widely used for building enterprise applications and large-scale systems. 
+Java follows the object-oriented programming paradigm and is platform independent.

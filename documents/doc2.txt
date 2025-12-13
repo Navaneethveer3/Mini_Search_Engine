@@ -1,0 +1,3 @@
+Data structures are essential for organizing data efficiently. 
+Common data structures include arrays, linked lists, stacks, queues, hash maps, and trees. 
+Good understanding of data structures improves problem solving skills.
